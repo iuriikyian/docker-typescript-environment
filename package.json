@@ -1,0 +1,12 @@
+{
+    "name": "typescript-lang-spike",
+    "version": "1.0.0",
+    "description": "spike on typescript language features",
+    "main": "index.js",
+    "scripts": {
+        "build" : "tsc --build tsconfig.json",
+        "clean" : "rimraf build/"
+    },
+    "author": "",
+    "license": "ISC"
+  }
